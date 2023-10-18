@@ -1,0 +1,17 @@
+{
+    "name": "influence/amo-integration",
+    "autoload": {
+        "psr-4": {
+            "Influence\\AmoIntegration\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandr Fedorenko",
+            "email": "sasha.fedorenko4736@gmail.com"
+        }
+    ],
+    "require": {
+        "amocrm/amocrm-api-library": "^1.2"
+    }
+}
